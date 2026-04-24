@@ -102,7 +102,7 @@ Bu notebook, LangChain ile kurulan RAG serisinin **2. adımıdır.**
 [1] ✅ Mesaj yapısı ve LLM bağlantısı
 [2] ✅ PromptTemplate ile şablonlu prompt   ← bu repo
 [3]    Çoklu zincir kurma ve zincirleri bağlama
-[4]    Embedding ile sayısallaştırma
+[4]    Metin bölme ve embedding
 [5]    ChromaDB vektör veritabanı
 [6]    Uçtan uca RAG pipeline
 ```
